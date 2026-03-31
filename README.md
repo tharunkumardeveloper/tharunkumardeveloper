@@ -50,7 +50,7 @@
 </td>
 <td width="78%" valign="middle">
 
-## Player One — About Me
+## About Me
 
 > *"Bridging cutting-edge AI research with real-world impact — one commit at a time."*
 
