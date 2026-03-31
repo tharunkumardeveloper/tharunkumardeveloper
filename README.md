@@ -76,7 +76,7 @@ tharun = {
 ═══════════════════════════════════════════════════════════════-->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900" height="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900" height="90" />
 </div>
 
 <br/>
@@ -340,7 +340,7 @@ tharun = {
 <br/>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/7c/58/3a/7c583a1e98081f75edd1761907496367.gif" width="900" height="60" />
+  <img src="https://i.pinimg.com/originals/7c/58/3a/7c583a1e98081f75edd1761907496367.gif" width="900" height="70%" />
 </div>
 
 <br/>
@@ -371,7 +371,7 @@ tharun = {
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900" height="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900" height="90" />
 </div>
 
 <br/>
