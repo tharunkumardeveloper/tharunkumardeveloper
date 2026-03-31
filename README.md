@@ -114,13 +114,13 @@ tharun = {
 | 🥇 | **Mine Your Ideas** — Idea Pitching | Loyola-ICAM College | Winner | RATSAFE |
 | 🥇 | **Business Pitch Competition** | Gojan School of Business | 1st Place | InSight IQ |
 | 🥇 | **App Development Competition** (IET) | KCG College of Technology | 1st Place | TalentTrack |
-| 🥇 | **AIRO 3.0** — Web Development | Sri Sairam Engineering College | 1st Place | — |
-| 🥇 | **TechXelerate** — Orator Quest | Sri Sairam Engineering College | Winner | — |
+| 🥇 | **AIRO 3.0** — Web Development | Sri Sairam Engineering College | 1st Place | Sportify |
+| 🥇 | **TechXelerate** — Orator Quest | Sri Sairam Engineering College | Winner | Oratorical |
 | 🥈 | **Amrita Hackathon Finals** | Amrita University | 8th / 31 Teams | ChainVoice |
 | 🥈 | **Steganos'25** — Idea Pitching | SRM Easwari Engineering College | 2nd Place | Talent Track |
-| 🥈 | **UNSCRIPTED'25** — Paper Presentation | St. Joseph Institute of Technology | Runner Up | — |
-| 🏅 | **Xplore'25** | Loyola-ICAM | 2nd Place | Robotic arm |
-| 🥉 | **FIKRA** — Business Pitch | — | 3rd Place | INDICRAFT |
+| 🥈 | **UNSCRIPTED'25** — Paper Presentation | St. Joseph Institute of Technology | Runner Up | Indicraft |
+| 🏅 | **Xplore'25** | Loyola-ICAM | 2nd Place | Robotic arm (RATSAFE) |
+| 🥉 | **FIKRA** — Business Pitch | Sri Sairam Engineering College | 3rd Place | INDICRAFT |
 | 🌟 | **Orion Hackathon** | Madras Medical College | Special Mention | NeuroVision CDSS |
 | 🚀 | **India AI Impact Buildathon** (HCL GUVI) | National | Qualified | Honeypot Tester |
 | 🌐 | **STATATHON 2026** | National | Finalist | Statistical Modeling |
