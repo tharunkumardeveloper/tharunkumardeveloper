@@ -340,7 +340,7 @@ tharun = {
 <br/>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/7c/58/3a/7c583a1e98081f75edd1761907496367.gif" width="900" height="70%" />
+  <img src="https://i.pinimg.com/originals/7c/58/3a/7c583a1e98081f75edd1761907496367.gif" width="900" height="90" />
 </div>
 
 <br/>
