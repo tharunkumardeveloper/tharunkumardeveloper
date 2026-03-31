@@ -123,7 +123,7 @@ tharun = {
 | 🥉 | **FIKRA** — Business Pitch | Sri Sairam Engineering College | 3rd Place | INDICRAFT |
 | 🌟 | **Orion Hackathon** | Madras Medical College | Special Mention | NeuroVision CDSS |
 | 🚀 | **India AI Impact Buildathon** (HCL GUVI) | National | Qualified | Honeypot Tester |
-| 🌐 | **STATATHON 2026** | National | Finalist | Statistical Modeling |
+| 🌐 | **STATATHON 2025** | National | Finalist | Statistical Modeling |
 
 <br/>
 
