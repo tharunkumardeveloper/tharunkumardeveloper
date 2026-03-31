@@ -155,10 +155,10 @@ tharun = {
 <table align="center" border="0" width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td align="center" width="50%">
-  <img src="https://www.nintendojo.com/wp-content/uploads/2017/08/Sonic-Gif.gif" width="100%" height="120" />
+  <img src="https://www.nintendojo.com/wp-content/uploads/2017/08/Sonic-Gif.gif" width="100%" height="80%" />
 </td>
 <td align="center" width="50%">
-  <img src="https://art.pixilart.com/4ce336effbfd93c.gif" width="100%" height="120" />
+  <img src="https://art.pixilart.com/4ce336effbfd93c.gif" width="100%" height="80%" />
 </td>
 </tr>
 </table>
