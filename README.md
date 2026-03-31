@@ -143,7 +143,7 @@ tharun = {
 |:---|:---|:---:|:---|
 | **Infosys Springboard** | AI Intern | 2025 | Built INSIGHT-IQ — 7-API market intelligence platform |
 | **WordPress & SEO Internship** | WordPress & SEO Intern | 2025 | Site optimization · metadata config · SEO improvements · `WordPress` `SEO` `Web Optimization` |
-| **1M1B** (UN-accredited) | Intern | 2024 | Global impact initiatives |
+| **1M1B** | Intern | 2025 | Global impact initiatives |
 | **Rudhra Info Solutions** | Web Developer | 2024 | FoodHopper platform |
 
 <!--═══════════════════════════════════════════════════════════════
