@@ -71,30 +71,29 @@ tharun = {
 </tr>
 </table>
 
-<br/>
-
 <!--═══════════════════════════════════════════════════════════════
-              PAC-MAN — BELOW ABOUT ME
+              PAC-MAN DIVIDER — BELOW ABOUT ME
 ═══════════════════════════════════════════════════════════════-->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="480" height="270" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900" height="50" />
 </div>
 
 <br/>
 
 <!--═══════════════════════════════════════════════════════════════
-              THARUN ASCII — COMPACT RETRO
+              THARUN ASCII — BOLD BLOCK STYLE
 ═══════════════════════════════════════════════════════════════-->
 
 <div align="center">
 
 ```
- _____ _   _    _    ____  _   _ _   _ 
-|_   _| | | |  / \  |  _ \| | | | \ | |
-  | | | |_| | / _ \ | |_) | | | |  \| |
-  | | |  _  |/ ___ \|  _ <| |_| | |\  |
-  |_| |_| |_/_/   \_\_| \_\\___/|_| \_|
+████████╗██╗  ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
+   ██╔══╝██║  ██║██╔══██╗██╔══██╗██║   ██║████╗  ██║
+   ██║   ███████║███████║██████╔╝██║   ██║██╔██╗ ██║
+   ██║   ██╔══██║██╔══██║██╔══██╗██║   ██║██║╚██╗██║
+   ██║   ██║  ██║██║  ██║██║  ██║╚██████╔╝██║ ╚████║
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
 </div>
@@ -115,15 +114,15 @@ tharun = {
 | 🥇 | **Mine Your Ideas** — Idea Pitching | Loyola-ICAM College | Winner | RATSAFE |
 | 🥇 | **Business Pitch Competition** | Gojan School of Business | 1st Place | InSight IQ |
 | 🥇 | **App Development Competition** (IET) | KCG College of Technology | 1st Place | TalentTrack |
-| 🥇 | **AIRO 3.0** — Web Development | Sri Sairam Engineering College | 1st Place | Instant Website |
+| 🥇 | **AIRO 3.0** — Web Development | Sri Sairam Engineering College | 1st Place | — |
 | 🥇 | **TechXelerate** — Orator Quest | Sri Sairam Engineering College | Winner | — |
 | 🥈 | **Amrita Hackathon Finals** | Amrita University | 8th / 31 Teams | ChainVoice |
 | 🥈 | **Steganos'25** — Idea Pitching | SRM Easwari Engineering College | 2nd Place | Talent Track |
 | 🥈 | **UNSCRIPTED'25** — Paper Presentation | St. Joseph Institute of Technology | Runner Up | — |
-| 🏅 | **Xplore'25** | Loyola-ICAM | 2nd Place | Robotic arm · rat hole mining |
+| 🏅 | **Xplore'25** | Loyola-ICAM | 2nd Place | Robotic arm |
 | 🥉 | **FIKRA** — Business Pitch | — | 3rd Place | INDICRAFT |
-| 🌟 | **NeuroVision · Orion Hackathon** | Madras Medical College | Special Mention | NeuroVision CDSS |
-| 🚀 | **India AI Impact Buildathon** (HCL GUVI) | National | Qualified | Honeypot Endpoint Tester |
+| 🌟 | **Orion Hackathon** | Madras Medical College | Special Mention | NeuroVision CDSS |
+| 🚀 | **India AI Impact Buildathon** (HCL GUVI) | National | Qualified | Honeypot Tester |
 | 🌐 | **STATATHON 2026** | National | Finalist | Statistical Modeling |
 
 <br/>
@@ -140,39 +139,26 @@ tharun = {
 
 ### Experience — Side Quests Completed
 
-| Company | Role | Year | Quest |
+| Company | Role | Year | Details |
 |:---|:---|:---:|:---|
 | **Infosys Springboard** | AI Intern | 2025 | Built INSIGHT-IQ — 7-API market intelligence platform |
-| **WordPress & SEO Internship** | WordPress & SEO Intern | 2025 | Site optimization, metadata config, and SEO improvements |
+| **WordPress & SEO Internship** | WordPress & SEO Intern | 2025 | Site optimization · metadata config · SEO improvements · `WordPress` `SEO` `Web Optimization` |
 | **1M1B** (UN-accredited) | Intern | 2024 | Global impact initiatives |
 | **Rudhra Info Solutions** | Web Developer | 2024 | FoodHopper platform |
 
-<details>
-<summary>WordPress & SEO Intern — Details</summary>
-
-> Worked on WordPress site optimization, metadata configuration, and SEO improvements to enhance performance and ranking.
->
-> - Optimized WordPress sites for better performance
-> - Implemented metadata configuration for improved SEO
-> - Enhanced site rankings through technical SEO improvements
->
-> **Skills:** WordPress &nbsp;·&nbsp; SEO &nbsp;·&nbsp; Web Optimization
-
-</details>
+<!--═══════════════════════════════════════════════════════════════
+         SONIC + MARIO SIDE BY SIDE — BELOW ACHIEVEMENTS
+═══════════════════════════════════════════════════════════════-->
 
 <br/>
 
-<!--═══════════════════════════════════════════════════════════════
-          SONIC + MARIO — SIDE BY SIDE (not just dividers)
-═══════════════════════════════════════════════════════════════-->
-
-<table align="center" border="0" width="96%" cellpadding="0" cellspacing="0">
+<table align="center" border="0" width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td align="center" width="50%">
-  <img src="https://www.nintendojo.com/wp-content/uploads/2017/08/Sonic-Gif.gif" width="300" height="169" />
+  <img src="https://www.nintendojo.com/wp-content/uploads/2017/08/Sonic-Gif.gif" width="100%" height="60" />
 </td>
 <td align="center" width="50%">
-  <img src="https://art.pixilart.com/4ce336effbfd93c.gif" width="300" height="169" />
+  <img src="https://art.pixilart.com/4ce336effbfd93c.gif" width="100%" height="60" />
 </td>
 </tr>
 </table>
@@ -231,14 +217,14 @@ tharun = {
 
 </div>
 
-<br/>
-
 <!--═══════════════════════════════════════════════════════════════
-         FIGHTING GAME DIVIDER — BEFORE PROJECTS
+         FIGHTING GAME DIVIDER — FULL WIDTH, BELOW TECH STACK
 ═══════════════════════════════════════════════════════════════-->
 
+<br/>
+
 <div align="center">
-  <img src="https://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-12.gif" width="480" height="270" />
+  <img src="https://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-12.gif" width="100%" />
 </div>
 
 <br/>
@@ -323,52 +309,38 @@ tharun = {
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### AeroGrowthSquad
-> *QUEST: Grow food without soil using AI*
+### Aeroponics — Vertical Farming & Plant Health System
+> *QUEST: Grow food without soil · Diagnose crops with AI*
 
-**Aeroponics-based vertical farming system** — the subject of a published patent funded by IEEE SIGHT. Combines precision agriculture with intelligent monitoring.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logoColor=white)
-![Patent](https://img.shields.io/badge/Patent_Published-FFD700?style=flat-square&logoColor=black)
-
-- Aeroponics-based soil-free vertical farming
-- IEEE SIGHT Grant — $3,300 USD funded
-- Patent published through IEEE SIGHT program
-
-<a href="https://github.com/tharunkumardeveloper/aerogrowthsquad"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20REPO-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### Plant Health Monitoring System
-> *QUEST: Diagnose 400+ crop diseases with CV*
-
-**AI-powered plant health monitoring** with real-time pest and disease detection. Supports Tomato, Strawberry, and Corn analysis via leaf image uploads.
+**Aeroponics-based vertical farming system** combined with an **AI-powered plant health monitor** — the subject of a published patent funded by IEEE SIGHT. Detects pest and crop diseases via leaf image uploads across Tomato, Strawberry, and Corn.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Patent](https://img.shields.io/badge/Patent_Published-FFD700?style=flat-square&logoColor=black)
 
-- CNN classifier for leaf disease detection
-- Instant confidence scores + health predictions
+- Aeroponics soil-free vertical farming — IEEE SIGHT Grant ($3,300 USD funded)
+- CNN classifier for real-time leaf disease detection with confidence scores
+- Multi-crop support: Tomato · Strawberry · Corn
 - Responsive mobile-friendly React + Tailwind UI
+
+<a href="https://github.com/tharunkumardeveloper/aerogrowthsquad"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20REPO-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 <!--═══════════════════════════════════════════════════════════════
-         PIXEL RETRO GIF — BETWEEN PROJECTS & PUBLICATIONS
+         PIXEL RETRO DIVIDER — BELOW PROJECTS
 ═══════════════════════════════════════════════════════════════-->
 
+<br/>
+
 <div align="center">
-  <img src="https://i.pinimg.com/originals/7c/58/3a/7c583a1e98081f75edd1761907496367.gif" width="480" height="270" />
+  <img src="https://i.pinimg.com/originals/7c/58/3a/7c583a1e98081f75edd1761907496367.gif" width="900" height="60" />
 </div>
 
 <br/>
@@ -381,16 +353,26 @@ tharun = {
 
 <div align="center">
 
-| Year | Title | Venue | Index |
-|:---:|:---|:---|:---:|
-| 2025 | **Optimizing the Quantum Circuit of Quantum SVM Using Hybrid Quantum Natural Gradient Descent and Quantum Butterfly Optimization Algorithm** | IEEE Conference | Scopus |
-| 2025 | **Optimizing the Quantum Circuit of Quantum K-Nearest Neighbors Using Hybrid Gradient Descent and Golden Eagle Optimization Algorithm** | IEEE Conference | Scopus |
-| 2025 | **Optimizing Quantum Support Vector Machine Circuits Using Hybrid Quantum Natural Gradient Descent and Whale Optimization Algorithm** | IEEE Conference | Scopus |
-| 2025 | **Hybrid Gradient Descent and Sea Lion Optimization Algorithm to Optimize Task Scheduling in Fog Computing Environment** | IEEE Conference | Scopus |
+| Year | Title | Venue |
+|:---:|:---|:---:|
+| 2025 | **Optimizing the Quantum Circuit of Quantum SVM Using Hybrid Quantum Natural Gradient Descent and Quantum Butterfly Optimization Algorithm** | Scopus · IEEE |
+| 2025 | **Optimizing the Quantum Circuit of Quantum K-Nearest Neighbors Using Hybrid Gradient Descent and Golden Eagle Optimization Algorithm** | Scopus · IEEE |
+| 2025 | **Optimizing Quantum Support Vector Machine Circuits Using Hybrid Quantum Natural Gradient Descent and Whale Optimization Algorithm** | Scopus · IEEE |
+| 2025 | **Hybrid Gradient Descent and Sea Lion Optimization Algorithm to Optimize Task Scheduling in Fog Computing Environment** | Scopus · IEEE |
 
 </div>
 
 > All papers explore hybrid quantum/classical ML optimization — combining gradient-based methods with bio-inspired algorithms across quantum ML and distributed computing domains.
+
+<!--═══════════════════════════════════════════════════════════════
+         PAC-MAN STRIP DIVIDER — BELOW PUBLICATIONS
+═══════════════════════════════════════════════════════════════-->
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900" height="50" />
+</div>
 
 <br/>
 
@@ -440,13 +422,6 @@ tharun = {
 </div>
 
 <div align="center">
-
-```
-  INSERT COIN TO CONTINUE . . .  [COIN]
-  ====================================
-       PRESS START TO COLLABORATE
-  ====================================
-```
 
 *If any of my projects sparked your interest, a star goes a long way — let's connect and build something great together*
 
