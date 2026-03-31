@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=200&section=header&text=Tharun%20Kumar%20C&fontSize=52&fontAlignY=38&fontColor=FFFFFF&desc=AI%20Researcher%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Patent%20Holder&descAlignY=58&descSize=16&descColor=C4B5FD&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=13&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=6x+Published+Author+%7C+Patent+Holder+%F0%9F%93%84;RBIH+NFPC+%26+STATATHON+2026+Finalist+%F0%9F%8F%86;Ex-Intern+%40Infosys+%40+1M1B+%7C+Pre-final+Year+%F0%9F%8E%93;Building+Intelligent+AI+Systems+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=12&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=6x+Published+Author+%7C+Patent+Holder;RBIH+NFPC+%26+STATATHON+2026+Finalist;Ex-Intern+%40Infosys+%40+1M1B+%7C+Pre-final+Year;Building+Intelligent+AI+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -23,16 +23,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharunkumardeveloper)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=tharunkumardeveloper&style=for-the-badge&color=7C3AED&label=Profile+Views)
 
-</div>
-
-<br/>
-
-<!--═══════════════════════════════════════════════════════════════
-                    PAC-MAN DIVIDER
-═══════════════════════════════════════════════════════════════-->
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="480" height="270" />
 </div>
 
 <br/>
@@ -84,32 +74,29 @@ tharun = {
 <br/>
 
 <!--═══════════════════════════════════════════════════════════════
-                  THARUN ASCII — RETRO PIXEL STYLE
+              PAC-MAN — BELOW ABOUT ME
 ═══════════════════════════════════════════════════════════════-->
 
 <div align="center">
-
-```
-████████╗██╗  ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
-   ██╔══╝██║  ██║██╔══██╗██╔══██╗██║   ██║████╗  ██║
-   ██║   ███████║███████║██████╔╝██║   ██║██╔██╗ ██║
-   ██║   ██╔══██║██╔══██║██╔══██╗██║   ██║██║╚██╗██║
-   ██║   ██║  ██║██║  ██║██║  ██║╚██████╔╝██║ ╚████║
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-
-              [ A I   R E S E A R C H E R   R P G ]
-```
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="480" height="270" />
 </div>
 
 <br/>
 
 <!--═══════════════════════════════════════════════════════════════
-                    MARIO DIVIDER (small, 16:9)
+              THARUN ASCII — COMPACT RETRO
 ═══════════════════════════════════════════════════════════════-->
 
 <div align="center">
-  <img src="https://art.pixilart.com/4ce336effbfd93c.gif" width="480" height="270" />
+
+```
+ _____ _   _    _    ____  _   _ _   _ 
+|_   _| | | |  / \  |  _ \| | | | \ | |
+  | | | |_| | / _ \ | |_) | | | |  \| |
+  | | |  _  |/ ___ \|  _ <| |_| | |\  |
+  |_| |_| |_/_/   \_\_| \_\\___/|_| \_|
+```
+
 </div>
 
 <br/>
@@ -120,65 +107,75 @@ tharun = {
 
 ## Achievements & Highlights
 
-<div align="center">
+### Boss Battles — Competitions
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║    ACHIEVEMENT UNLOCKED — HALL OF FAME                              ║
-╠══════════════╦═══════════════╦═══════════════╦══════════════════════╣
-║  Battles     ║  Research     ║  XP Gained    ║  Skill Trees         ║
-╠══════════════╬═══════════════╬═══════════════╬══════════════════════╣
-║ NFPC Top 12  ║ 6x Published  ║ Infosys · 1M1B║ FinTech AI · XAI    ║
-║ STATATHON    ║ Patent Holder ║ Rudhra · Bees ║ Healthcare AI · LLM  ║
-╚══════════════╩═══════════════╩═══════════════╩══════════════════════╝
-```
-
-</div>
-
-<br/>
-
-### Boss Battles — Competitions & Hackathons
-
-| Medal | Event | Result | Project |
-|:---:|:---|:---:|:---|
-| 🏆 | **RBIH NFPC** (Reserve Bank Innovation Hub x IIT Delhi) | Top 12 / 87 Teams | ScamShield · AUC 0.98, F1 0.93 |
-| 🥇 | **KCG Mobile App Dev** (IET) | 1st Place + Rs.3000 | TalentTrack |
-| 🥈 | **Amrita Hackathon Finals** | 8th / 31 Teams | ChainVoice · Blockchain Invoice |
-| 🌟 | **NeuroVision · Orion @ MMC** | Special Mention | Alzheimer's CDSS |
-| 🏅 | **Xplore'25** (Loyola-ICAM) | 2nd Place | Robotic arm · rat hole mining |
-| 🚀 | **India AI Impact Buildathon** (HCL GUVI) | Qualified | Honeypot Endpoint Tester |
-| 🎯 | **Forge Technologies Ideathon** | 1st Round Winner | Medical rescue rover |
-| 🌐 | **STATATHON 2026** | Finalist | Data Science · Statistical Modeling |
+| Medal | Event | Venue | Result | Project |
+|:---:|:---|:---|:---:|:---|
+| 🏆 | **RBIH NFPC** (Reserve Bank Innovation Hub x IIT Delhi) | National | Top 12 / 87 Teams | ScamShield |
+| 🥇 | **Mine Your Ideas** — Idea Pitching | Loyola-ICAM College | Winner | RATSAFE |
+| 🥇 | **Business Pitch Competition** | Gojan School of Business | 1st Place | InSight IQ |
+| 🥇 | **App Development Competition** (IET) | KCG College of Technology | 1st Place | TalentTrack |
+| 🥇 | **AIRO 3.0** — Web Development | Sri Sairam Engineering College | 1st Place | Instant Website |
+| 🥇 | **TechXelerate** — Orator Quest | Sri Sairam Engineering College | Winner | — |
+| 🥈 | **Amrita Hackathon Finals** | Amrita University | 8th / 31 Teams | ChainVoice |
+| 🥈 | **Steganos'25** — Idea Pitching | SRM Easwari Engineering College | 2nd Place | Talent Track |
+| 🥈 | **UNSCRIPTED'25** — Paper Presentation | St. Joseph Institute of Technology | Runner Up | — |
+| 🏅 | **Xplore'25** | Loyola-ICAM | 2nd Place | Robotic arm · rat hole mining |
+| 🥉 | **FIKRA** — Business Pitch | — | 3rd Place | INDICRAFT |
+| 🌟 | **NeuroVision · Orion Hackathon** | Madras Medical College | Special Mention | NeuroVision CDSS |
+| 🚀 | **India AI Impact Buildathon** (HCL GUVI) | National | Qualified | Honeypot Endpoint Tester |
+| 🌐 | **STATATHON 2026** | National | Finalist | Statistical Modeling |
 
 <br/>
 
 ### Research & Publications — Skill Unlocks
 
-- **6x Published Author** across IEEE conferences — Quantum ML · Cloud · Fog Computing · UAV Networks
-- **Patent Holder** — Vertical Tower Farming using Aeroponics *(IEEE SIGHT · $3,300 USD funded)*
+- **6x Published Author** — Scopus-indexed IEEE conference proceedings
+- **Patent Published** — Aeroponics-based Vertical Farming System *(IEEE SIGHT · $3,300 USD funded)*
 - **NeuroVision CDSS** — Multi-modal Alzheimer's detection *(CNN · RF · SVM · GBM + SHAP + Grad-CAM)*
 - **ScamShield** — Fraud lifecycle modeling · 400M+ transactions · Transaction graph analysis
+- **IEEE TEMS Volunteer Excellence Award** — Awarded for outstanding digital leadership as Webmaster
 
 <br/>
 
 ### Experience — Side Quests Completed
 
-| Company | Role | Quest |
-|:---|:---|:---|
-| **Infosys Springboard** | AI Intern | Built INSIGHT-IQ — 7-API market intelligence platform |
-| **1M1B** (UN-accredited) | Intern | Global impact initiatives |
-| **Rudhra Info Solutions** | Web Developer | FoodHopper platform |
-| **LocalBees** | Web Developer | Hyperlocal business platform |
+| Company | Role | Year | Quest |
+|:---|:---|:---:|:---|
+| **Infosys Springboard** | AI Intern | 2025 | Built INSIGHT-IQ — 7-API market intelligence platform |
+| **WordPress & SEO Internship** | WordPress & SEO Intern | 2025 | Site optimization, metadata config, and SEO improvements |
+| **1M1B** (UN-accredited) | Intern | 2024 | Global impact initiatives |
+| **Rudhra Info Solutions** | Web Developer | 2024 | FoodHopper platform |
+
+<details>
+<summary>WordPress & SEO Intern — Details</summary>
+
+> Worked on WordPress site optimization, metadata configuration, and SEO improvements to enhance performance and ranking.
+>
+> - Optimized WordPress sites for better performance
+> - Implemented metadata configuration for improved SEO
+> - Enhanced site rankings through technical SEO improvements
+>
+> **Skills:** WordPress &nbsp;·&nbsp; SEO &nbsp;·&nbsp; Web Optimization
+
+</details>
 
 <br/>
 
 <!--═══════════════════════════════════════════════════════════════
-                    SONIC DIVIDER (small, 16:9)
+          SONIC + MARIO — SIDE BY SIDE (not just dividers)
 ═══════════════════════════════════════════════════════════════-->
 
-<div align="center">
-  <img src="https://www.nintendojo.com/wp-content/uploads/2017/08/Sonic-Gif.gif" width="480" height="270" />
-</div>
+<table align="center" border="0" width="96%" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" width="50%">
+  <img src="https://www.nintendojo.com/wp-content/uploads/2017/08/Sonic-Gif.gif" width="300" height="169" />
+</td>
+<td align="center" width="50%">
+  <img src="https://art.pixilart.com/4ce336effbfd93c.gif" width="300" height="169" />
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -237,11 +234,11 @@ tharun = {
 <br/>
 
 <!--═══════════════════════════════════════════════════════════════
-               RETRO PIXEL DIVIDER (small, 16:9)
+         FIGHTING GAME DIVIDER — BEFORE PROJECTS
 ═══════════════════════════════════════════════════════════════-->
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/7c/58/3a/7c583a1e98081f75edd1761907496367.gif" width="480" height="270" />
+  <img src="https://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-12.gif" width="480" height="270" />
 </div>
 
 <br/>
@@ -277,7 +274,7 @@ tharun = {
 ### ScamShield
 > *QUEST: Hunt 400M+ fraudulent transactions*
 
-**AI fraud detection pipeline** for the RBIH National Fraud Prevention Challenge — Top 12 of 87 teams. Detects money mule accounts in banking transactions.
+**AI fraud detection pipeline** for the RBIH National Fraud Prevention Challenge — Top 12 of 87 teams nationally. Detects money mule accounts in banking transactions.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/Ensemble_ML-7C3AED?style=flat-square&logoColor=white)
@@ -291,19 +288,20 @@ tharun = {
 <tr>
 <td width="50%" valign="top">
 
-### Jarvis — AI Assistant
-> *QUEST: Build Iron Man's JARVIS IRL*
+### TalentTrack
+> *QUEST: AI-powered fitness & talent analysis*
 
-Personal AI assistant — **React frontend**, **C core engine**, LLM-powered for conversational intelligence and agentic automation.
+**AI fitness analysis platform** — won 1st Place at KCG App Dev Competition (IET) and presented at Steganos'25. Evaluates talent and performance through intelligent tracking.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![LLM](https://img.shields.io/badge/LLM_Powered-5b21b6?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Powered-7C3AED?style=flat-square&logoColor=white)
 
-- Multi-turn memory · Agentic task automation
-- Offline + cloud-hybrid architecture
+- AI-driven talent and fitness assessment
+- Mobile-first design with modern UI/UX
+- Real-time performance analytics
 
-<a href="https://github.com/tharunkumardeveloper/Jarvis"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20REPO-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/tharunkumardeveloper/Talent-Track-cyber/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20REPO-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -311,7 +309,7 @@ Personal AI assistant — **React frontend**, **C core engine**, LLM-powered for
 ### INSIGHT-IQ
 > *QUEST: Decode the market in real-time*
 
-**AI-powered strategic intelligence platform** built during Infosys internship. Monitors competitors, detects market trends, and sends real-time alerts.
+**AI-powered strategic intelligence platform** built during Infosys internship. Monitors competitors, detects market trends, and sends real-time alerts. Won 1st Place at Gojan Business Pitch Competition.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -324,7 +322,100 @@ Personal AI assistant — **React frontend**, **C core engine**, LLM-powered for
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### AeroGrowthSquad
+> *QUEST: Grow food without soil using AI*
+
+**Aeroponics-based vertical farming system** — the subject of a published patent funded by IEEE SIGHT. Combines precision agriculture with intelligent monitoring.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logoColor=white)
+![Patent](https://img.shields.io/badge/Patent_Published-FFD700?style=flat-square&logoColor=black)
+
+- Aeroponics-based soil-free vertical farming
+- IEEE SIGHT Grant — $3,300 USD funded
+- Patent published through IEEE SIGHT program
+
+<a href="https://github.com/tharunkumardeveloper/aerogrowthsquad"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20REPO-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Plant Health Monitoring System
+> *QUEST: Diagnose 400+ crop diseases with CV*
+
+**AI-powered plant health monitoring** with real-time pest and disease detection. Supports Tomato, Strawberry, and Corn analysis via leaf image uploads.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+- CNN classifier for leaf disease detection
+- Instant confidence scores + health predictions
+- Responsive mobile-friendly React + Tailwind UI
+
+</td>
+</tr>
 </table>
+
+<br/>
+
+<!--═══════════════════════════════════════════════════════════════
+         PIXEL RETRO GIF — BETWEEN PROJECTS & PUBLICATIONS
+═══════════════════════════════════════════════════════════════-->
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/7c/58/3a/7c583a1e98081f75edd1761907496367.gif" width="480" height="270" />
+</div>
+
+<br/>
+
+<!--═══════════════════════════════════════════════════════════════
+                   PUBLICATIONS — RESEARCH LOG
+═══════════════════════════════════════════════════════════════-->
+
+## Publications — Research Log
+
+<div align="center">
+
+| Year | Title | Venue | Index |
+|:---:|:---|:---|:---:|
+| 2025 | **Optimizing the Quantum Circuit of Quantum SVM Using Hybrid Quantum Natural Gradient Descent and Quantum Butterfly Optimization Algorithm** | IEEE Conference | Scopus |
+| 2025 | **Optimizing the Quantum Circuit of Quantum K-Nearest Neighbors Using Hybrid Gradient Descent and Golden Eagle Optimization Algorithm** | IEEE Conference | Scopus |
+| 2025 | **Optimizing Quantum Support Vector Machine Circuits Using Hybrid Quantum Natural Gradient Descent and Whale Optimization Algorithm** | IEEE Conference | Scopus |
+| 2025 | **Hybrid Gradient Descent and Sea Lion Optimization Algorithm to Optimize Task Scheduling in Fog Computing Environment** | IEEE Conference | Scopus |
+
+</div>
+
+> All papers explore hybrid quantum/classical ML optimization — combining gradient-based methods with bio-inspired algorithms across quantum ML and distributed computing domains.
+
+<br/>
+
+<!--═══════════════════════════════════════════════════════════════
+               CERTIFICATIONS — POWER-UP COLLECTION
+═══════════════════════════════════════════════════════════════-->
+
+## Certifications — Power-Up Collection
+
+<div align="center">
+
+| Certification | Issuer | Year | Skills |
+|:---|:---|:---:|:---|
+| Deep Learning for Developers | Infosys Springboard | 2025 | Deep Learning · Neural Networks · AI/ML |
+| What is Metaverse | Meta | 2026 | Metaverse · VR · Digital Innovation |
+| Go for Gold — Gold Level Achievement | Accenture iAspire | 2025 | Problem Solving · Technical Excellence |
+| Deloitte Australia — Data Analytics Simulation | Deloitte | 2026 | Data Analytics · Business Intelligence |
+| Career Essentials in Generative AI | Microsoft & LinkedIn | 2023 | Generative AI · Prompt Engineering |
+| Cloud Computing | NPTEL | 2024 | Cloud · Distributed Systems |
+| Foundations of Digital Marketing & E-commerce | Google / Coursera | 2024 | Digital Marketing · E-commerce |
+| WordPress with Docker | Great Learning | 2024 | WordPress · Docker · DevOps |
+| Agile Requirements Foundations | LinkedIn | 2023 | Agile · Requirements Engineering |
+| Collaborating with G Suite Apps | Coursera | 2023 | G Suite · Productivity |
+
+</div>
 
 <br/>
 
@@ -341,26 +432,6 @@ Personal AI assistant — **React frontend**, **C core engine**, LLM-powered for
 <br/>
 
 <!--═══════════════════════════════════════════════════════════════
-                    GITHUB STATS — PLAYER STATS
-═══════════════════════════════════════════════════════════════-->
-
-## Player Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tharunkumardeveloper&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&bg_color=0D1117" width="48%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumardeveloper&theme=tokyonight&hide_border=true&ring=A78BFA&fire=FFD700&currStreakLabel=A78BFA&background=0D1117" width="48%" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunkumardeveloper&theme=tokyonight&hide_border=true&layout=compact&title_color=A78BFA&text_color=FFFFFF&bg_color=0D1117" width="40%" />
-</div>
-
-<br/>
-
-<!--═══════════════════════════════════════════════════════════════
                            FOOTER
 ═══════════════════════════════════════════════════════════════-->
 
@@ -369,6 +440,13 @@ Personal AI assistant — **React frontend**, **C core engine**, LLM-powered for
 </div>
 
 <div align="center">
+
+```
+  INSERT COIN TO CONTINUE . . .  [COIN]
+  ====================================
+       PRESS START TO COLLABORATE
+  ====================================
+```
 
 *If any of my projects sparked your interest, a star goes a long way — let's connect and build something great together*
 
