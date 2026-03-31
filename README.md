@@ -155,7 +155,7 @@ tharun = {
 <table align="center" border="0" width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td align="center" width="50%">
-  <img src="https://www.nintendojo.com/wp-content/uploads/2017/08/Sonic-Gif.gif" width="100%" height="100%" />
+  <img src="https://www.nintendojo.com/wp-content/uploads/2017/08/Sonic-Gif.gif" width="200%" height="100%" />
 </td>
 <td align="center" width="50%">
   <img src="https://art.pixilart.com/4ce336effbfd93c.gif" width="100%" height="80%" />
@@ -340,7 +340,7 @@ tharun = {
 <br/>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/7c/58/3a/7c583a1e98081f75edd1761907496367.gif" width="900" height="90" />
+  <img src="https://i.pinimg.com/originals/7c/58/3a/7c583a1e98081f75edd1761907496367.gif" width="900" height="300" />
 </div>
 
 <br/>
