@@ -1,0 +1,25 @@
+name: GitHub Pet
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: prsdx/github-pet@v1
+        with:
+          username: ${{ github.repository_owner }}
+          timezone-offset-minutes: "330"   # IST (UTC+5:30)
+      - name: Commit pet files if changed
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A dist || true
+          git commit -m "Update GitHub pet" && git push || echo "Nothing new to commit"
