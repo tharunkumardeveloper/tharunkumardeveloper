@@ -1,142 +1,185 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=180&section=header&text=Tharun%20Kumar%20C&fontSize=48&fontAlignY=36&fontColor=FFFFFF&desc=AI%20Engineer%20%C2%B7%20Fraud%20%26%20ML%20Systems%20%C2%B7%20Full-Stack&descAlignY=58&descSize=15&descColor=C4B5FD&animation=twinkling" width="100%" alt="Tharun Kumar C" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=200&section=header&text=Tharun%20Kumar%20C&fontSize=52&fontAlignY=38&fontColor=FFFFFF&desc=AI%20Engineer%20%E2%80%A2%20Fraud%20%26%20ML%20Systems%20%E2%80%A2%20Patent%20Holder&descAlignY=58&descSize=16&descColor=C4B5FD&animation=twinkling" width="100%" alt="Tharun Kumar C" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Ex-Data+Science+Intern+%40+RBIH;RBIH+NFPC+Finalist+%C2%B7+Top+12+of+87;6x+IEEE+Author+%C2%B7+Patent+Holder;Building+agents%2C+fraud+models+%26+ML+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=12&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Ex-Data+Science+Intern+%40+RBIH;RBIH+NFPC+Finalist+%7C+Top+12+of+87;6x+IEEE+Author+%7C+Patent+Holder;Building+Intelligent+AI+Systems" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharun-kumar-developer)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://tharun-kumar.vercel.app)
-![Profile Views](https://komarev.com/ghpvc/?username=tharunkumardeveloper&style=flat-square&color=7C3AED&label=views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharun-kumar-developer)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://tharun-kumar.vercel.app)&nbsp;
+![Views](https://komarev.com/ghpvc/?username=tharunkumardeveloper&style=for-the-badge&color=7C3AED&label=Profile+Views)
 
 </div>
 
----
+<br/>
 
-### About
+<table align="center" border="0" width="96%" cellpadding="16" cellspacing="0">
+<tr>
+<td width="24%" align="center" valign="middle">
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coding animation" />
+<img src="https://github.com/tharunkumardeveloper.png" width="150" alt="Tharun Kumar C" />
 
-AI engineer and pre-final year CS student at **Sri Sairam Engineering College**, working where **fraud detection, ML systems and fintech infrastructure** meet.
+<br/><br/>
 
-- **Ex-Data Science Intern, RBIH** (Reserve Bank Innovation Hub) · AI & Data Science team
+**Tharun Kumar C**<br/>
+<sub>AI Engineer &middot; Researcher &middot; Builder</sub>
+
+</td>
+<td width="76%" valign="middle">
+
+### About Me
+
+> *"Bridging AI research with real-world impact — one commit at a time."*
+
+Pre-final year CS student at **Sri Sairam Engineering College**, working where **fraud detection, ML systems and fintech infrastructure** meet.
+
+- **Ex-Data Science Intern @ RBIH** (Reserve Bank Innovation Hub) · AI & Data Science
 - **RBIH NFPC Finalist** · Top 12 of 87 teams nationally
 - **6x IEEE (Scopus) author** · **Patent published** (IEEE SIGHT funded)
-- Previously at **Infosys Springboard** and **1M1B**
-- Interests: **agentic AI, graph ML, explainable AI, fraud analytics**
+- Ex-Intern @ **Infosys Springboard** and **1M1B**
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="468" alt="" />
+</div>
 
-### Featured Projects
+<br/>
 
-<table>
+## Featured Projects
+
+<table align="center" width="96%" border="0" cellpadding="16" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
 
-#### [Relay](https://github.com/tharunkumardeveloper/The-Final-Boss)
-Agent memory and coordination on a **FalkorDB** knowledge graph. Built for Graph Hacks (WeMakeDevs × FalkorDB), Track 02, and **featured on FalkorDB's blog** among standout agent-memory projects.
+### [Relay](https://github.com/tharunkumardeveloper/The-Final-Boss)
+Agent memory and coordination on a **FalkorDB** knowledge graph. Built for Graph Hacks (WeMakeDevs × FalkorDB), Track 02 · **featured on FalkorDB's blog**.
 
-`Python` `FalkorDB` `LLM Agents`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FalkorDB](https://img.shields.io/badge/FalkorDB-7C3AED?style=flat-square)
+![LLM Agents](https://img.shields.io/badge/LLM_Agents-24292F?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-#### [TalentTrack](https://github.com/tharunkumardeveloper/Talent-Track-Updated)
-AI fitness and talent-assessment platform with real-time performance analytics. **1st place**, KCG App Development Competition (IET).
+### [TalentTrack](https://github.com/tharunkumardeveloper/Talent-Track-Updated)
+AI fitness and talent-assessment platform with real-time performance analytics. **1st place**, KCG App Dev Competition (IET).
 
-`React` `Python` `Computer Vision`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [ScamShield](https://github.com/tharunkumardeveloper/Scamshield)
-Money-mule detection for the **RBIH National Fraud Prevention Challenge**: fraud-lifecycle modelling and transaction-graph analysis over 400M+ transactions. **AUC 0.98 · F1 0.93.**
+### [ScamShield](https://github.com/tharunkumardeveloper/Scamshield)
+Money-mule detection for the **RBIH National Fraud Prevention Challenge** · 400M+ transactions · **AUC 0.98 · F1 0.93**.
 
-`Python` `Ensemble ML` `Graph Analytics`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ensemble ML](https://img.shields.io/badge/Ensemble_ML-7C3AED?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-#### [Indicraft](https://github.com/tharunkumardeveloper/indicraft-global-crafts-36)
-Marketplace connecting Indian artisans with global buyers. **Runner-up**, UNSCRIPTED'25 paper presentation.
+### [Indicraft](https://github.com/tharunkumardeveloper/indicraft-global-crafts-36)
+Platform taking Indian artisan crafts to a global audience. **Runner-up**, UNSCRIPTED'25.
 
-`React` `TypeScript` `Tailwind`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [INSIGHT-IQ](https://github.com/tharunkumardeveloper/INSIGHT-IQ-MODULE-4)
-Market-intelligence platform built at Infosys: 7 live APIs, sentiment analysis, Prophet forecasting and Slack alerts. **1st place**, Gojan Business Pitch.
+### [INSIGHT-IQ](https://github.com/tharunkumardeveloper/INSIGHT-IQ-MODULE-4)
+Market-intelligence platform built at Infosys · 7 live APIs, NLP sentiment, Prophet forecasting. **1st place**, Gojan Business Pitch.
 
-`React` `FastAPI` `NLP`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### [NeuroVision CDSS](https://github.com/tharunkumardeveloper/Neurovision)
-Multi-modal Alzheimer's decision support (CNN · RF · SVM · GBM) with **SHAP and Grad-CAM** explanations. Special Mention, Orion Hackathon @ MMC.
+### [NeuroVision CDSS](https://github.com/tharunkumardeveloper/Neurovision)
+Multi-modal Alzheimer's detection with **SHAP + Grad-CAM** explainability. Special Mention, Orion Hackathon @ MMC.
 
-`Next.js` `Python` `XAI`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-#### [AeroGrowthSquad](https://github.com/tharunkumardeveloper/aerogrowthsquad)
-Aeroponic vertical farming with a CNN leaf-disease classifier for tomato, strawberry and corn. Subject of a **published patent**, funded by IEEE SIGHT.
+### [AeroGrowthSquad](https://github.com/tharunkumardeveloper/aerogrowthsquad)
+Aeroponic vertical farming with a CNN leaf-disease classifier · subject of a **published patent** (IEEE SIGHT funded).
 
-`React` `TensorFlow` `Tailwind`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Patent](https://img.shields.io/badge/Patent_Published-FFD700?style=flat-square)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### Tech Stack
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center"><img src="https://www.nintendojo.com/wp-content/uploads/2017/08/Sonic-Gif.gif" height="160" alt="" /></td>
+<td align="center"><img src="https://art.pixilart.com/4ce336effbfd93c.gif" height="160" alt="" /></td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Stack
 
 <div align="center">
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,c&theme=dark" alt="Languages" />
-
-**AI / ML**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI and ML" />
-
-**Web & Backend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi&theme=dark" alt="Web and backend" />
-
-**Data & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,linux,vercel&theme=dark" alt="Data and tools" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,pytorch,tensorflow,sklearn&theme=dark" alt="Languages and AI/ML" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,postgres,mongodb,docker,git,linux,vercel&theme=dark" alt="Web, backend and tools" />
 
 </div>
 
----
+<br/>
 
-### Highlights
+<div align="center">
+  <img src="https://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-12.gif" width="100%" alt="" />
+</div>
+
+<br/>
+
+## Highlights
 
 | | Achievement |
 |:--:|:--|
-| 🏆 | **RBIH NFPC** (RBIH × IIT Delhi) · Top 12 of 87 teams · ScamShield |
-| 🥇 | **1st place** · KCG App Dev (IET), Gojan Business Pitch, AIRO 3.0, Mine Your Ideas |
-| 🌐 | **Finalist** · STATATHON 2025 · Qualified, India AI Impact Buildathon |
+| 🏆 | **RBIH NFPC** (RBIH × IIT Delhi) · Top 12 of 87 teams |
+| 🥇 | **1st place** · KCG App Dev (IET) · Gojan Business Pitch · AIRO 3.0 · Mine Your Ideas |
+| 🌐 | **Finalist**, STATATHON 2025 · **Qualified**, India AI Impact Buildathon |
 | 📄 | **6 IEEE papers** on hybrid quantum/classical ML optimisation |
-| 🎖️ | **IEEE TEMS Volunteer Excellence Award** (Webmaster) |
+| 🎖️ | **IEEE TEMS Volunteer Excellence Award** |
 
----
+<br/>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/7c/58/3a/7c583a1e98081f75edd1761907496367.gif" width="500" alt="" />
+</div>
+
+<br/>
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharunkumardeveloper&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution graph" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=120&section=footer" width="100%" alt="" />
+
+**[LinkedIn](https://linkedin.com/in/tharun-kumar-developer) &nbsp;·&nbsp; [Portfolio](https://tharun-kumar.vercel.app) &nbsp;·&nbsp; [GitHub](https://github.com/tharunkumardeveloper)**
 
 </div>
