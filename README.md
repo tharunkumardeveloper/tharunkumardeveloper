@@ -39,6 +39,8 @@ Pre-final year CS student at **Sri Sairam Engineering College**, working where *
 - **6x IEEE (Scopus) author** · **Patent published** (IEEE SIGHT funded)
 - Ex-Intern @ **Infosys Springboard** and **1M1B**
 
+🔭 &nbsp;Currently building **Jarvis**, an LLM-powered personal AI assistant
+
 </td>
 </tr>
 </table>
@@ -51,13 +53,11 @@ Pre-final year CS student at **Sri Sairam Engineering College**, working where *
 
 ## Highlights
 
-| | Achievement |
-|:--:|:--|
-| 🏆 | **RBIH NFPC** (RBIH × IIT Delhi) · Top 12 of 87 teams |
-| 🥇 | **1st place** · KCG App Dev (IET) · Gojan Business Pitch · AIRO 3.0 · Mine Your Ideas |
-| 🌐 | **Finalist**, STATATHON 2025 · **Qualified**, India AI Impact Buildathon |
-| 📄 | **6 IEEE papers** on hybrid quantum/classical ML optimisation |
-| 🎖️ | **IEEE TEMS Volunteer Excellence Award** |
+🏆 &nbsp;**RBIH NFPC** (RBIH × IIT Delhi) — Top 12 of 87 teams with ScamShield<br/>
+🥇 &nbsp;**1st place** — KCG App Dev (IET) · Gojan Business Pitch · AIRO 3.0 · Mine Your Ideas<br/>
+🌐 &nbsp;**Finalist**, STATATHON 2025 · **Qualified**, India AI Impact Buildathon<br/>
+📄 &nbsp;**6 IEEE papers** on hybrid quantum/classical ML optimisation<br/>
+🎖️ &nbsp;**IEEE TEMS Volunteer Excellence Award**
 
 <br/>
 
@@ -74,9 +74,7 @@ Pre-final year CS student at **Sri Sairam Engineering College**, working where *
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,pytorch,tensorflow,sklearn&theme=dark" alt="Languages and AI/ML" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,postgres,mongodb,docker,git,linux,vercel&theme=dark" alt="Web, backend and tools" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,pytorch,tensorflow,sklearn,fastapi,nodejs,react,nextjs,tailwind,postgres,mongodb,docker,git,linux,vercel&theme=dark&perline=9" alt="Tech stack" />
 
 </div>
 
@@ -94,7 +92,7 @@ Pre-final year CS student at **Sri Sairam Engineering College**, working where *
 <tr>
 <td width="50%" valign="top">
 
-### [Relay](https://github.com/tharunkumardeveloper/The-Final-Boss)
+### [Relay](https://github.com/tharunkumardeveloper/The-Final-Boss) &nbsp;![Featured](https://img.shields.io/badge/★_Featured_by_FalkorDB-FFD700?style=flat-square)
 Agent memory and coordination on a **FalkorDB** knowledge graph. Built for Graph Hacks (WeMakeDevs × FalkorDB), Track 02 · **featured on FalkorDB's blog**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -180,9 +178,22 @@ Aeroponic vertical farming with a CNN leaf-disease classifier · subject of a **
 
 <br/>
 
+## GitHub Activity
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tharunkumardeveloper&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution graph" />
+<img src="https://streak-stats.demolab.com?user=tharunkumardeveloper&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B949E&disable_animations=true" width="70%" alt="Streak stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tharunkumardeveloper&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF" width="100%" alt="Contribution graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunkumardeveloper/tharunkumardeveloper/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/tharunkumardeveloper/tharunkumardeveloper/output/github-snake.svg" width="100%" alt="Contribution snake" />
+</picture>
+
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=120&section=footer" width="100%" alt="" />
 
