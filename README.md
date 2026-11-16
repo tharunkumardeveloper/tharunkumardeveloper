@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=200&section=header&text=Tharun%20Kumar%20C&fontSize=52&fontAlignY=38&fontColor=FFFFFF&desc=AI%20Engineer%20%E2%80%A2%20Fraud%20%26%20ML%20Systems%20%E2%80%A2%20Patent%20Holder&descAlignY=58&descSize=16&descColor=C4B5FD&animation=twinkling" width="100%" alt="Tharun Kumar C" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=200&section=header&text=Tharun%20Kumar%20C&fontSize=52&fontAlignY=38&fontColor=FFFFFF&desc=AI%20Researcher%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Patent%20Holder&descAlignY=58&descSize=16&descColor=C4B5FD&animation=twinkling" width="100%" alt="Tharun Kumar C" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=12&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Ex-Data+Science+Intern+%40+RBIH;RBIH+NFPC+Finalist+%7C+Top+12+of+87;6x+IEEE+Author+%7C+Patent+Holder;Building+Intelligent+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=12&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=6x+Published+Author+%7C+Patent+Holder;RBIH+NFPC+%26+STATATHON+Finalist;Ex-Intern+%40RBIH+%40Infosys+%40+1M1B;Building+Intelligent+AI+Systems" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -45,6 +45,45 @@ Pre-final year CS student at **Sri Sairam Engineering College**, working where *
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="468" alt="" />
+</div>
+
+<br/>
+
+## Highlights
+
+| | Achievement |
+|:--:|:--|
+| 🏆 | **RBIH NFPC** (RBIH × IIT Delhi) · Top 12 of 87 teams |
+| 🥇 | **1st place** · KCG App Dev (IET) · Gojan Business Pitch · AIRO 3.0 · Mine Your Ideas |
+| 🌐 | **Finalist**, STATATHON 2025 · **Qualified**, India AI Impact Buildathon |
+| 📄 | **6 IEEE papers** on hybrid quantum/classical ML optimisation |
+| 🎖️ | **IEEE TEMS Volunteer Excellence Award** |
+
+<br/>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center"><img src="https://www.nintendojo.com/wp-content/uploads/2017/08/Sonic-Gif.gif" height="160" alt="" /></td>
+<td align="center"><img src="https://art.pixilart.com/4ce336effbfd93c.gif" height="160" alt="" /></td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,pytorch,tensorflow,sklearn&theme=dark" alt="Languages and AI/ML" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,postgres,mongodb,docker,git,linux,vercel&theme=dark" alt="Web, backend and tools" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-12.gif" width="100%" alt="" />
 </div>
 
 <br/>
@@ -129,47 +168,14 @@ Aeroponic vertical farming with a CNN leaf-disease classifier · subject of a **
 
 <br/>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td align="center"><img src="https://www.nintendojo.com/wp-content/uploads/2017/08/Sonic-Gif.gif" height="160" alt="" /></td>
-<td align="center"><img src="https://art.pixilart.com/4ce336effbfd93c.gif" height="160" alt="" /></td>
-</tr>
-</table>
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,pytorch,tensorflow,sklearn&theme=dark" alt="Languages and AI/ML" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,postgres,mongodb,docker,git,linux,vercel&theme=dark" alt="Web, backend and tools" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-12.gif" width="100%" alt="" />
-</div>
-
-<br/>
-
-## Highlights
-
-| | Achievement |
-|:--:|:--|
-| 🏆 | **RBIH NFPC** (RBIH × IIT Delhi) · Top 12 of 87 teams |
-| 🥇 | **1st place** · KCG App Dev (IET) · Gojan Business Pitch · AIRO 3.0 · Mine Your Ideas |
-| 🌐 | **Finalist**, STATATHON 2025 · **Qualified**, India AI Impact Buildathon |
-| 📄 | **6 IEEE papers** on hybrid quantum/classical ML optimisation |
-| 🎖️ | **IEEE TEMS Volunteer Excellence Award** |
-
-<br/>
-
 <div align="center">
   <img src="https://i.pinimg.com/originals/7c/58/3a/7c583a1e98081f75edd1761907496367.gif" width="500" alt="" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="468" alt="" />
 </div>
 
 <br/>
