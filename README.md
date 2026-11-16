@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=200&section=header&text=Tharun%20Kumar%20C&fontSize=52&fontAlignY=38&fontColor=FFFFFF&desc=AI%20Researcher%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Patent%20Holder&descAlignY=58&descSize=16&descColor=C4B5FD&animation=twinkling" width="100%" alt="Tharun Kumar C" />
+<img src="./assets/header.svg" width="100%" alt="Tharun Kumar C — AI Researcher, Full-Stack Developer, Patent Holder" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=12&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=6x+Published+Author+%7C+Patent+Holder;RBIH+NFPC+%26+STATATHON+Finalist;Ex-Intern+%40RBIH+%40Infosys+%40+1M1B;Building+Intelligent+AI+Systems" alt="Typing SVG" />
 
@@ -195,7 +195,7 @@ Aeroponic vertical farming with a CNN leaf-disease classifier · subject of a **
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=120&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting" />
 
 **[LinkedIn](https://linkedin.com/in/tharun-kumar-developer) &nbsp;·&nbsp; [Portfolio](https://tharun-kumar.vercel.app) &nbsp;·&nbsp; [GitHub](https://github.com/tharunkumardeveloper)**
 
