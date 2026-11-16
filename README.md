@@ -182,9 +182,8 @@ Aeroponic vertical farming with a CNN leaf-disease classifier · subject of a **
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tharunkumardeveloper&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B949E&disable_animations=true" width="70%" alt="Streak stats" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tharunkumardeveloper&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF" width="100%" alt="Contribution graph" />
+<img src="https://streak-stats.demolab.com?user=tharunkumardeveloper&theme=tokyonight&border=7C3AED&border_radius=6&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B949E&disable_animations=true" width="49%" alt="Streak stats" />
+<img src="https://ghstats.dev/api/langs?username=tharunkumardeveloper&layout=donut&bg=0D1117&text=E9D5FF&title_color=A78BFA&border_color=7C3AED" width="49%" alt="Top languages" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunkumardeveloper/tharunkumardeveloper/output/github-snake-dark.svg" />
